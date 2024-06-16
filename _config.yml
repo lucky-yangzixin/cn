@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zixin Yang"
+  name             : "Zixin Yang 杨子馨"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "#2 Sipailou, Nanjing City, P.R. China. "
+  location         : "#2 Sipailou, Nanjing City, Jiangsu Province, 210096, P.R. China. c"
   employer         : "Southeast University"
-  uri              : https://lucky-yangzixin.github.io/cv/# URL
+  uri              : https://lucky-yangzixin.github.io/cn/# URL
   email            : "yangzixin1025@126.com" 
 
   # Academic websites
